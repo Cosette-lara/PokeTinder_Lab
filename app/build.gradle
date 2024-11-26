@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.melendez.paulo.poketinder'
+    namespace 'com.lara.cosette.poketinder'
     compileSdk 35
 
     defaultConfig {
-        applicationId "com.melendez.paulo.poketinder"
+        applicationId "com.lara.cosette.poketinder"
         minSdk 24
         targetSdk 34
         versionCode 1
