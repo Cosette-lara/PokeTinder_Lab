@@ -5,7 +5,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.melendez.paulo.poketinder.databinding.ItemPokemonBinding
+import com.lara.cosette.poketinder.databinding.ItemPokemonBinding
 
 class PokemonAdapter(
     var list: List<PokemonResponse>

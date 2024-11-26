@@ -4,7 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.melendez.paulo.poketinder.databinding.ActivityLoginBinding
+import com.lara.cosette.poketinder.databinding.ActivityLoginBinding
 
 class LoginActivity : AppCompatActivity() {
 

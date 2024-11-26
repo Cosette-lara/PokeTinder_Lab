@@ -4,7 +4,7 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import android.widget.Toast
 import androidx.core.view.isVisible
-import com.melendez.paulo.poketinder.databinding.ActivityMainBinding
+import com.lara.cosette.poketinder.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

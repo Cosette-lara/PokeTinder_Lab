@@ -3,7 +3,7 @@ package com.lara.cosette.poketinder
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import com.melendez.paulo.poketinder.R
+import com.lara.cosette.poketinder.R
 
 class RegisterActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

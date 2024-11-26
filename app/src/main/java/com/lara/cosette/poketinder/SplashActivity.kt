@@ -7,7 +7,7 @@ import android.os.Looper
 import androidx.appcompat.app.AppCompatActivity
 import com.rommansabbir.animationx.Attention
 import com.rommansabbir.animationx.animationXAttention
-import com.melendez.paulo.poketinder.databinding.ActivitySplashBinding
+import com.lara.cosette.poketinder.databinding.ActivitySplashBinding
 
 class SplashActivity : AppCompatActivity() {
 
